@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: org.projectlombok:lombok:1.18.30">
+    <archive path="C:/Users/Sarika/.m2/repository/org/projectlombok/lombok/1.18.30/lombok-1.18.30.jar" />
+  </library>
+  <library name="Maven: com.google.protobuf:protobuf-java:3.21.9">
+    <archive path="C:/Users/Sarika/.m2/repository/com/google/protobuf/protobuf-java/3.21.9/protobuf-java-3.21.9.jar" />
+  </library>
+  <library name="Maven: com.mysql:mysql-connector-j:8.2.0">
+    <archive path="C:/Users/Sarika/.m2/repository/com/mysql/mysql-connector-j/8.2.0/mysql-connector-j-8.2.0.jar" />
+  </library>
+</eclipse-userlibraries>
+
